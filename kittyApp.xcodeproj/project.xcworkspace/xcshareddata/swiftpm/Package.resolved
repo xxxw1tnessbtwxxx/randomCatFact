@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "b2fa556e4e48cbf06cf8c63def138c98f4b811fa",
+        "version" : "5.8.0"
+      }
+    },
+    {
+      "identity" : "swifttranslate",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SkiingIsFun123/SwiftTranslate",
+      "state" : {
+        "revision" : "095ffb874d4205d9b5936cdd00d1a9ba77d57206",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
